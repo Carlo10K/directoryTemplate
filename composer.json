@@ -1,0 +1,19 @@
+{
+    "name": "carlo/curso-frameworks",
+    "description": "Proyecto Basico",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Carlo10K",
+            "email": "carlosortegadiaz50@gmail.com"
+        }
+    ],
+    "require": {}
+}
